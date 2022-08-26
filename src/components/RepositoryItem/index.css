@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+.img-list {
+  height: 70px;
+}
+
+.bg-color {
+  background-color: #f8f8ff;
+  width: 200px;
+  height: 300px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 12px;
+  padding: 12px;
+  border-radius: 7px;
+}
+
+.heading_section {
+  font-size: 18px;
+  color: #e73959;
+  font-family: roboto;
+}
+
+.start-img {
+  height: 20px;
+}
+
+.flex-item-arrange {
+  display: flex;
+}
+p {
+  /* padding-top: 3px; */
+  margin-left: 4px;
+  margin-top: 0px;
+  color: #1e293b;
+}

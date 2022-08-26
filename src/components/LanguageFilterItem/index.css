@@ -1,0 +1,22 @@
+.msg-change {
+  border: 2px solid #0284c7;
+  background-color: transparent;
+  color: #0284c7;
+  border-radius: 6px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.ul {
+  display: flex;
+  justify-content: center;
+}
+
+.li {
+  display: flex;
+}

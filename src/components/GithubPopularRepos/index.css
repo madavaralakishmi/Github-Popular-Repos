@@ -1,0 +1,30 @@
+h1 {
+  color: black;
+  font-weight: 600;
+  font-family: Lobster;
+}
+
+.text-center {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70vw;
+  justify-content: center;
+}
+
+.center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-img {
+  height: 700px;
+}
